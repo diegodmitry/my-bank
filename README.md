@@ -21,4 +21,9 @@ Para realizar o projeto, alguns conhecimentos foram aplicados:
 ` npm run dev `
 
 # Imagens
+1.
 ![Screen 1](https://github.com/diegodmitry/my-bank/blob/master/src/assets/preview1.png?raw=true)
+2.
+![Screen 2](https://github.com/diegodmitry/my-bank/blob/master/src/assets/preview2.png?raw=true)
+3.
+![Screen 3](https://github.com/diegodmitry/my-bank/blob/master/src/assets/preview3.png?raw=true)
