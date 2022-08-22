@@ -8,6 +8,7 @@ Para realizar o projeto, alguns conhecimentos foram aplicados:
 * Media Queries para responsividade;
 * O arquivo **styles.js** é usado, dinamicamente, o Tailwind.
 * Realizado o deploy;
+  https://mybank-react-tailwind.netlify.app/
 
 # 💻 Instalando o projeto
 
